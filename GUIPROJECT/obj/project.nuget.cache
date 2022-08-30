@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9eJCQZrxFjoWZJduIhTHCafi7GpH1rsbIZBF3DfPf65x/r5eoMe9yIC8veZLLHgD0d/KewmHj728oIhHNJu1PQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mohammed.sabah\\source\\repos\\GUIPROJECT\\GUIPROJECT\\GUIPROJECT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mohammed.sabah\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512",
+    "C:\\Users\\mohammed.sabah\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
